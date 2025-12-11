@@ -1,5 +1,5 @@
 # Training-and-Placement
-## [Linkedin]https://www.linkedin.com/company/tpcbiet/)
+## [Linkedin](https://www.linkedin.com/company/tpcbiet/)
 ## [Facebook](https://www.facebook.com/tpcbietsss)
 
 
