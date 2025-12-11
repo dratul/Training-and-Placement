@@ -1,5 +1,10 @@
 # Training-and-Placement
-year-wise placement-preparation plan for an undergraduate engineering student at BIET Jhansi
+## [Linkedin]([https://www.linkedin.com/company/tpcbiet/])
+## 
+
+
+# year-wise placement-preparation plan for an undergraduate engineering student at BIET Jhansi
+
 ## Overview — goals by year
 ### Year 1 (Anukulan : Foundations):
 Academic foundation, basic programming & communication, time management, exploratory internships/competitions.
