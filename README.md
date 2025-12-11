@@ -1,5 +1,19 @@
 # Training-and-Placement
-This repo is to provide materials related to training for placement of Students and job updates.
+year-wise placement-preparation plan for an undergraduate engineering student at BIET Jhansi
+## Overview — goals by year
+### Year 1 (Anukulan : Foundations):
+Academic foundation, basic programming & communication, time management, exploratory internships/competitions.
+
+### Year 2 (Prakharan: Skill building): 
+Strengthen core subjects, start coding & domain courses, small projects, Github portfolio, technical clubs.
+
+### Year 3 (Udaan: Industry readiness): 
+Internships, major project start, advanced technical skills, certifications, professional profile (LinkedIn/resume).
+
+### Year 4 (Alankaran: Placement focus):
+Finalise projects, intensive interview preparation (aptitude, coding, system design), mock interviews, campus drives/applications.
+
+
 ## Aptitude Syllabus for Placements!
 ### Section 1: Quantitative Aptitude
 1. Percentages
