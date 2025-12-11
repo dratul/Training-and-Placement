@@ -1,6 +1,7 @@
 # Training-and-Placement
 ## [Linkedin](https://www.linkedin.com/company/tpcbiet/)
 ## [Facebook](https://www.facebook.com/tpcbietsss)
+## [whatsapp](https://whatsapp.com/channel/0029VaEufoh77qVWyvuClS3C)
 
 
 # year-wise placement-preparation plan for an undergraduate engineering student at BIET Jhansi
