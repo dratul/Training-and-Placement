@@ -1,4 +1,4 @@
-# Training-and-Placement
+# Training-and-Placement Cell BIET Jhansi
 ## [Linkedin](https://www.linkedin.com/company/tpcbiet/)
 ## [Facebook](https://www.facebook.com/tpcbietsss)
 ## [whatsapp](https://whatsapp.com/channel/0029VaEufoh77qVWyvuClS3C)
